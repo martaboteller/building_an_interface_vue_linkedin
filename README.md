@@ -19,7 +19,7 @@ I am on my way to achieve a :rocket: fullstack overview!
 
 <br/>
 
-<img style="display:block;margin-left:auto;margin-right:auto;padding-bottom:40px" src="./public/assets/ui.png" width="450" alt="project's view">
+<img style="text-align:center;display:block;margin-left:auto;margin-right:auto;padding-bottom:40px" src="./public/assets/ui.png" width="450" alt="project's view">
 
 <br/>
 
